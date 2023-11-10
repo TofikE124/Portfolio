@@ -40,7 +40,7 @@ export const HomeSection = () => {
           >
             Hire Me
           </a>
-          <a href="#contact" className="btn">
+          <a href="mailto:tofikelias77@gmail.com" className="btn">
             Let's Talk
           </a>
           <span
