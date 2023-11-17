@@ -10,6 +10,15 @@ export interface Project {
 
 const Projects: Project[] = [
   {
+    id: "7",
+    title: "Designo",
+    imageURL: "/projects/Designo.png",
+    description: "",
+    categories: ["React", "Typescript"],
+    websiteURL: "https://gorgeous-brioche-7c0074.netlify.app/",
+    codeURL: "https://github.com/TofikE124/Designo",
+  },
+  {
     id: "6",
     title: "Kanban Task Managment App",
     imageURL: "/projects/KanbanTaskManagment.png",
