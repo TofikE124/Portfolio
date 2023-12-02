@@ -37,6 +37,15 @@ const Projects: Project[] = [
     codeURL: "https://github.com/TofikE124/Audiophile-Ecommerce-Website",
   },
   {
+    id: "8",
+    title: "Issue Tracker",
+    imageURL: "/projects/IssueTracker.png",
+    description: "",
+    categories: ["Next.js", "CSS"],
+    websiteURL: "https://issue-tracker-u639.vercel.app/",
+    codeURL: "https://github.com/TofikE124/issue-tracker",
+  },
+  {
     id: "2",
     title: "Entrtainment Wep App",
     imageURL: "/projects/EntertainmentWebApp.jpg",
