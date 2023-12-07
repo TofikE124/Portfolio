@@ -30,11 +30,15 @@ const AboutSection = () => {
           ></span>
         </h3>
         <p>
-          My name is Tofik Elias, I'm 18 years old and I'm passionate about
-          learning new coding skills everyday on my own. I have built a lot of
-          professional websites using React.js and Typescript and I will always
-          try to keep updated with everything new regarding Frontend
-          Development.
+          Hey there, I'm Tofik Elias, an 18-year-old self-driven coder
+          passionate about continual learning. I thrive on mastering new coding
+          skills independently, specializing in building professional websites
+          with React.js and Typescript.
+          <br />
+          My commitment to staying updated in Frontend Development is
+          unwavering—I make it a point to embrace every new advancement. I'm
+          dedicated to constant skill growth in the Frontend realm, fueled by my
+          love for creating innovative digital experiences.
           <br />I will always try to grow my skills in Frontend
           <span
             className="animate scroll"

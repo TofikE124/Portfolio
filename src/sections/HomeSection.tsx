@@ -24,9 +24,18 @@ export const HomeSection = () => {
           ></span>
         </div>
         <p>
-          Passionate Web Developer. Have experience in React.js, Next.js,
-          JavaScript, Typescript and Git. looking forward to be working with a
-          team that values quality and managment.
+          Junior Front-End Developer adept in React and Next.js, passionate
+          about crafting user-centric web experiences. Dedicated over 500 hours
+          to comprehensive Web Development courses, combining technical
+          proficiency with a commitment to personal growth.
+          <br />
+          Collaborative by nature, I thrive on learning from seasoned developers
+          while contributing fresh perspectives. Strong communication skills and
+          a problem-solving mindset drive my ability to create polished
+          solutions.
+          <br />
+          Eager to leverage my coding passion and skills within a talented
+          engineering team, I aim to deliver high-quality, innovative solutions.
           <span
             className="animate"
             style={{ "--i": 4 } as React.CSSProperties}
