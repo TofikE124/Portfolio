@@ -33,7 +33,7 @@ const Projects: Project[] = [
     imageURL: "/projects/RockPaperScissors.png",
     description: "",
     categories: ["Next.js"],
-    websiteURL: "https://rock-paper-scissors-eta-sepia.vercel.app/modes/bonus",
+    websiteURL: "https://rock-paper-scissors-eta-sepia.vercel.app",
     codeURL: "https://github.com/TofikE124/rock-paper-scissors",
   },
   {
