@@ -28,6 +28,24 @@ const Projects: Project[] = [
     codeURL: "https://github.com/TofikE124/Kanban-task-managment",
   },
   {
+    id: "10",
+    title: "Rock Paper Scissors Lizard Spock",
+    imageURL: "/projects/RockPaperScissors.png",
+    description: "",
+    categories: ["Next.js"],
+    websiteURL: "https://rock-paper-scissors-eta-sepia.vercel.app/modes/bonus",
+    codeURL: "https://github.com/TofikE124/rock-paper-scissors",
+  },
+  {
+    id: "9",
+    title: "Interactive comments section",
+    imageURL: "/projects/InteractiveCommentsSection.png",
+    description: "",
+    categories: ["Next.js", "CSS", "NextAuth", "Primsa", "PostgresSQL"],
+    websiteURL: "https://rock-paper-scissors-eta-sepia.vercel.app",
+    codeURL: "https://github.com/TofikE124/interactive-comments-section",
+  },
+  {
     id: "1",
     title: "Audiophile",
     imageURL: "/projects/Audiophile.png",
@@ -36,15 +54,7 @@ const Projects: Project[] = [
     websiteURL: "https://brilliant-begonia-545122.netlify.app/",
     codeURL: "https://github.com/TofikE124/Audiophile-Ecommerce-Website",
   },
-  {
-    id: "9",
-    title: "Interactive comments section",
-    imageURL: "/projects/InteractiveCommentsSection.png",
-    description: "",
-    categories: ["Next.js", "CSS", "NextAuth", "Primsa", "PostgresSQL"],
-    websiteURL: "https://interactive-comments-section-three-inky.vercel.app",
-    codeURL: "https://github.com/TofikE124/interactive-comments-section",
-  },
+
   {
     id: "8",
     title: "Issue Tracker",
