@@ -42,7 +42,7 @@ const Projects: Project[] = [
     imageURL: "/projects/InteractiveCommentsSection.png",
     description: "",
     categories: ["Next.js", "CSS", "NextAuth", "Primsa", "PostgresSQL"],
-    websiteURL: "https://rock-paper-scissors-eta-sepia.vercel.app",
+    websiteURL: "https://interactive-comments-section-pxi1.vercel.app/",
     codeURL: "https://github.com/TofikE124/interactive-comments-section",
   },
   {
