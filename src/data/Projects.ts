@@ -10,6 +10,15 @@ export interface Project {
 
 const Projects: Project[] = [
   {
+    id: "11",
+    title: "Product Feedback App",
+    imageURL: "/projects/ProductFeedbackApp.png",
+    description: "",
+    categories: ["Next.js", "Prisma", "Mysql", "Typescript"],
+    websiteURL: "https://product-feedback-app-beta-five.vercel.app/",
+    codeURL: "https://github.com/TofikE124/Product-Feedback-App",
+  },
+  {
     id: "7",
     title: "Designo",
     imageURL: "/projects/Designo.png",
